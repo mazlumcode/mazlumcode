@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazlum</h1>
-<h3 align="center">A rising full stack developer with the passion to create mysterious websites and mobile apps the worldwide through the love of codes. </h3>
+<h3 align="center">A full stack developer with the passion to create mysterious websites and mobile apps the worldwide through the love of codes. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mazlumcode" alt="mazlumcode" /> </p>
 
